@@ -1,0 +1,12 @@
+@media screen and (min-width: 768px) {
+.hero {
+    background: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/background/Dark-bg-tab.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 188px 0px;
+    text-align: center;
+}
+
+
+}

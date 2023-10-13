@@ -1,0 +1,59 @@
+@media screen and (min-width: 1158px) {
+    
+.hero {
+        background: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/people-office.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 188px 0px;
+        text-align: center;
+    }
+
+
+
+    .features-list {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .services {
+        display: block;
+        padding-top: 0;
+    }
+
+    .features-image {
+        background-color: var(--cloud);
+        border-radius: 4px;
+        height: 112px;
+        width: 264px;
+        margin-bottom: 8px;
+        display: block;
+    }
+
+    .container {
+        width: 1158px;
+        margin: 0 auto;
+    }
+
+    .services-list {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .team-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+    }
+
+    .customers-logo-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 24px;
+    }
+
+    
+
+}
